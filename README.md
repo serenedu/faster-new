@@ -12,4 +12,4 @@ Demo:
 
 ![Extension Demo](https://raw.githubusercontent.com/wenfangdu/faster-new/master/images/demo.gif)
 
-If you like this extension, a 🌟 will be very appreciated :D.
+If you like this extension, a 🌟 will be very appreciated 😊.
