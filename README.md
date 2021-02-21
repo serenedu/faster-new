@@ -2,7 +2,7 @@
 
 VSCode extension for faster file and folder creation.
 
-## Feature
+## Why
 
 By default, VSCode only allows you to create files and folders only if the source being right-clicked is a folder. This extension enables you to create them even if the source is a file. The newly created file or folder will appear at the same level as the source file.
 
