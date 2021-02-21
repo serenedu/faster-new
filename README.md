@@ -10,6 +10,6 @@ By default, VSCode only allows you to create files and folders only if the sourc
 
 Demo:
 
-![Extension Demo](https://raw.githubusercontent.com/wenfangdu/faster-new/master/images/demo.gif)
+<img src="./images/demo.gif" alt="Extension Demo" width="330" />
 
 If you like this extension, a 🌟 will be very appreciated 😊.
