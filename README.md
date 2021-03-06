@@ -1,6 +1,4 @@
-# Faster New File And Folder
-
-VSCode extension for faster file and folder creation.
+# Faster New File & Folder
 
 ## Why
 
