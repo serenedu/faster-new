@@ -1,13 +1,13 @@
 {
   "name": "faster-new",
-  "displayName": "Faster New File & Folder",
+  "displayName": "Quick New File & Folder",
   "description": "Quickly create files and folders",
-  "version": "1.1.9",
+  "version": "1.1.18",
   "publisher": "wenfangdu",
   "icon": "images/icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wenfangdu/faster-new"
+    "url": "https://github.com/wenfangdu/vscode-quick-new"
   },
   "engines": {
     "vscode": "^1.0.0"

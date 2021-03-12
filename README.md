@@ -1,4 +1,4 @@
-# Faster New File & Folder
+# Quick New File & Folder
 
 ## Why
 
@@ -6,8 +6,8 @@ By default, VSCode only allows you to create files and folders only if the sourc
 
 [Click "install" to try it out](https://marketplace.visualstudio.com/items?itemName=wenfangdu.faster-new)
 
-Demo:
+## Preview
 
-<img src="./images/demo.gif" alt="Extension Demo" width="330" />
+<img src="https://raw.githubusercontent.com/wenfangdu/vscode-quick-new/main/images/preview.gif" alt="Preview" width="330" />
 
 If you like this extension, a 🌟 will be very appreciated 😊.
